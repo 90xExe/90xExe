@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm 90x.exe {NoYon} </h1>
 <h3 align="center">A am a backend Programmer from Bangladesh !!</h3>
-<a href="https://discord.gg/KbhwvbPw2G" target="_blank">
-
-
+<a href="https://discord.com/servers/90x-exe-1223553717501038592" target="_blank">
 <img align="right" alt="Join Discord !!" width="400" src="https://64.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif">
 </a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=90xexe&label=Profile%20views&color=0e75b6&style=flat" alt="90xexe" /> </p>
 
 - 🔭 I’m currently working on [FreeFire Cheat](https://github.com/90xExe/PanelUpdater)
