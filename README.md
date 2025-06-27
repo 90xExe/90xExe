@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=90xexe&label=Profile%20views&color=0e75b6&style=flat" alt="90xexe" /> </p>
 
-- 🔭 I’m currently working on [FreeFire Cheat](https://github.com/90xExe/PanelUpdater)
+- 🔭 I’m currently working on [FreeFire Apis](https://t.me/ffinfobd)
 
 - 🌱 I’m currently learning **Java,JavaScript**
 
