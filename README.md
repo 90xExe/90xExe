@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nazim_noyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazim_noyon" height="30" width="40" /></a>
-<a href="https://discord.gg/KbhwvbPw2G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gg/KbhwvbPw2G" height="30" width="40" /></a>
+<a href="https://discord.gg/XJbTs9XuQN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gg/KbhwvbPw2G" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
