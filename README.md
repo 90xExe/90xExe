@@ -141,16 +141,21 @@ I'm **MD. Nazim Uddin Noyon**, also known as **90x.exe** — a CSE student, back
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=90xexe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=90xexe&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=90xExe&theme=tokyonight" alt="GitHub statistics"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=90xExe&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=90xexe&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Most-used languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=90xExe&theme=tokyonight" alt="Top languages by repository"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=90xExe&theme=tokyonight" alt="Top languages by commits"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=90xexe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=12" alt="Contribution graph"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=90xExe&theme=tokyonight" alt="GitHub contribution details"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=90xExe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=12" alt="Contribution graph"/>
 
 </div>
 
