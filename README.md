@@ -141,21 +141,15 @@ I'm **MD. Nazim Uddin Noyon**, also known as **90x.exe** — a CSE student, back
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=90xExe&theme=tokyonight" alt="GitHub statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=90xExe&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=90xExe&theme=tokyonight" alt="Top languages by repository"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=90xExe&theme=tokyonight" alt="Top languages by commits"/>
-
-<br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=90xExe&theme=tokyonight" alt="GitHub contribution details"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=90xExe&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak"/>
 
 <br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=90xExe&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=12" alt="Contribution graph"/>
+
+<br/>
+
+<sub>🔥 Keep building, keep learning, and keep the contribution streak alive!</sub>
 
 </div>
 
