@@ -4,11 +4,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:5865F2,100:8A2BE2&height=220&section=header&text=Hi%20👋%20I'm%2090x.exe%20{NoYon}&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20CSE%20Student%20%7C%20Esports%20Broadcaster&descAlignY=60&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Backend+Developer+from+Bangladesh+🇧🇩;Free+Fire+Esports+Broadcaster+🎙️;Discord+Bot+%26+Automation+Developer+🤖;Turning+Ideas+into+Working+Software+🚀" alt="Typing introduction"/>
-</a>
+### 💻 Backend Developer • 🤖 Automation Builder • 🎙️ Esports Broadcaster
 
-<br/>
+<samp>
+Turning ideas into working software — one line of code at a time.
+</samp>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=90xexe&label=PROFILE+VIEWS&color=5865F2&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/90xexe?label=FOLLOWERS&style=for-the-badge&color=00C9FF" alt="GitHub followers"/>
